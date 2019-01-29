@@ -4,4 +4,5 @@
 
 ---
 
-
+- [Kong](https://www.yoshi1125hisa.com/note/kong)
+- [Token](https://www.yoshi1125hisa.com/note/token)
