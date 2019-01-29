@@ -1,8 +1,7 @@
-# yoshi1125hisa's note
-
 ##  table of contents
 
 ---
 
+- [Hyperledger](https://www.yoshi1125hisa.com/note/hyperledger)
 - [Kong](https://www.yoshi1125hisa.com/note/kong)
-- [Token](https://www.yoshi1125hisa.com/note/token)
+- [NEO](https://www.yoshi1125hisa.com/note/neo)
