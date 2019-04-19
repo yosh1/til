@@ -42,3 +42,7 @@ ex)
 - USB Mini-B
 
 ![](http://support.bunsosha.com/mailmag/images/201812/imasara.jpg)
+
+#### ワイヤレス・インタフェース
+- Bluetooth ... 2.4GHz、100mまで接続可能。PC、スマホ間やゲームのコントローラーなどに使用されている。
+- IrDA ... 赤外線を利用して通信する。携帯電話などに使用される。
